@@ -18,3 +18,4 @@ Our main objects represented below:
 * statistic analysis using TAREAN output
 * comparing reads proportion by each sample in same clusters
 * making conclusions
+![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/Barplot.png?raw=true)
