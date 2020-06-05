@@ -36,3 +36,5 @@ Tree based on INT domain.
 
 Tree based on RT domain.
 ![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/RT_tree.png?raw=true)
+
+Based on the dotplot and barplot results and Mann–Whitney test we can conclude that we cant't say for sure that we found differences between two samples. 
