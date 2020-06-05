@@ -31,5 +31,7 @@ Here the dotplot built by R Studio which represent reads distribution.
 Using Geneious tool we built phylogenetic trees.
 We used reverse transcriptase and integrase domains for distinguishing does clusters with same annotated groups have same domain structure. 
 Tree based on INT domain.
+![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/INT_tree.png?raw=true)
 
 Tree based on RT domain.
+![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/RT_tree.png?raw=true)
