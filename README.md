@@ -21,5 +21,15 @@ Our main objects represented below:
 
 Using Repeat Explorer output we obtained statistics about reads distribution among repeat types.
 It turned out that Ty1/copia is the most numerous repeat type in our samples.
-It belongs to Class II transposon family.
+It belongs to Class II transposon family. Using R Studio we built a barplot.
 ![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/Barplot.png?raw=true)
+
+Also we had statistics about distribution of reads from different samples in same clusters.
+Here the dotplot built by R Studio which represent reads distribution.
+![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/Dotplot.png?raw=true)
+
+Using Geneious tool we built phylogenetic trees.
+We used reverse transcriptase and integrase domains for distinguishing does clusters with same annotated groups have same domain structure. 
+Tree based on INT domain.
+
+Tree based on RT domain.
