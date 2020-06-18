@@ -37,7 +37,9 @@ Tree based on INT domain.
 Tree based on RT domain.
 ![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/RT_tree.png?raw=true)
 
-Based on the dotplot and barplot results we cannot conclude that we have significant differences between two samples.
-To make sure do we have interesting clusters we decided to use Mann-Witeny statistical test.
+Based on the dotplot and barplot results we couldn't conclude that we have significant differences between two samples.
+To make sure that we have interesting clusters we decided to use Mann-Whitney statistical test.
 We had a table consist of numbers of reads of two samples and we used it to run test.
 ![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/perc_table.png?raw=true)
+Mann-Whitney criteria didn't show any valuable values.
+According to all contributive facts we concluded that we haven't reads clusters that would be important to one of samples.
