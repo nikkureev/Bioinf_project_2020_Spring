@@ -37,4 +37,7 @@ Tree based on INT domain.
 Tree based on RT domain.
 ![screenshot of sample](https://github.com/nikkureev/Bioinf_project_2020_Spring/blob/master/RT_tree.png?raw=true)
 
-Based on the dotplot and barplot results and Mann–Whitney test we can conclude that we cant't say for sure that we found differences between two samples. 
+Based on the dotplot and barplot results we cannot conclude that we have significant differences between two samples.
+To make sure do we have interesting clusters we decided to use Mann-Witeny statistical test.
+We had a table consist of numbers of reads of two samples and we used it to run test.
+
