@@ -4,7 +4,7 @@
 
 Agriculural plants have a lot of repetitive DNA in their genome.
 Aegilops taushi have 4.3 Gb in length and almost 84% of it's genome sequence represented by transposons.
-The most dispersed type of those sequences is LTR (Long Terminal Repeat - 66% of hole genome).
+The most dispersed type of those sequences is LTR (Long Terminal Repeat - 66% of whole genome).
 
 At the begining we had sequencing reslts (NovaSeq Illumina) of two samples of Aegilops taushi of different origin.
 The main aim of the research was to determinate the reason of repetitive sequences enreachment and it's influence on plants.
